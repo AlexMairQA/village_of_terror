@@ -1,0 +1,4 @@
+You've entered the village shop. What would you like to buy?
+
+coffee
+cigarettes

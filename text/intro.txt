@@ -1,0 +1,22 @@
+You've come out to a cosy little village in the country, expecting
+to have a nice relaxing weekend. You're about to find out that
+these villagers aren't nice to outsiders.
+
+You can walk in four directions:
+North (n)
+South (s)
+East (e)
+West (w)
+
+Here are some neighborhood rules:
+
+1. Do NOT go near anybody's house. The neighbors are VERY suspicious and they
+will call the police if they think you are trying to burgle them,
+even if you're not.
+
+2. Don't go too far down any alleyways.
+
+3. If you find yourself on farmland, get the fuck off it. The local farmers
+don't take kindly to trespassers.
+
+Now. You are in a forest.

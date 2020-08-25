@@ -1,0 +1,2 @@
+ is not a valid direction. Valid directions are 'n' for North,
+'s' for South, 'e' for East, 'w' for West
